@@ -1,0 +1,13 @@
+{
+  "name": "tuhe-live-webgis",
+  "version": "0.6.0",
+  "private": true,
+  "description": "途合真实地图工作台：骑行接驳与顺路商户规划",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test test/core.test.cjs test/server.test.cjs test/map.test.cjs test/station-access.test.cjs test/interest.test.cjs"
+  }
+}

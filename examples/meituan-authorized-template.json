@@ -1,0 +1,9 @@
+{
+  "provider": "meituan_authorized_export",
+  "crs": "GCJ-02",
+  "authorization_confirmed": false,
+  "authorization_reference": "请填写实际授权或数据使用依据；没有授权不要改成true",
+  "exported_at": null,
+  "merchants": [],
+  "rating_max": 5
+}
